@@ -4,7 +4,7 @@
 
 Hi, My Name Is [svmuel](https://t.me/DeadEmote), im  a Russian American German Music Producer & Visual Artist And Native English Speaker Based in Iran
 
-<img align="right" alt="GIF" src="https://https://i.pinimg.com/originals/0d/a7/6a/0da76ae2424490d0ce35af3542c2182c.gif." width="480" height="270" />
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/76a3dcf968de46ca34efc044df32a589/75251c12474adb9e-03/s1280x1920/f1d0e750317e88922765a6d1d5f5edcaa3ec7492.gif." width="500" height="270" />
 
 **My Personal Information:**
 
