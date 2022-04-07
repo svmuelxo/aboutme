@@ -26,8 +26,7 @@ Nationality : Russian American German
 
 **Skills And Apps:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/svmuelxo/about-me/main/Adobe_Photoshop_CC_icon.svg.png"></code> 
-
+<code><img height="20" src=https://raw.githubusercontent.com/svmuelxo/about-me/main/images/Adobe_Photoshop_CC_icon.svg.png"></code> 
 
 **Social Media**
 
