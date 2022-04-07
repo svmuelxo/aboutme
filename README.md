@@ -1,10 +1,10 @@
-<h2> Hi <img src="https://cdn.discordapp.com/emojis/744623964000747601.gif?size=4096&quality=lossless" width="25px"></h2>
+  <h2> Hi <img src="https://cdn.discordapp.com/emojis/744623964000747601.gif?size=4096&quality=lossless" width="25px"></h2>
 
 
 
 Hi, My Name Is [svmuel](https://t.me/DeadEmote), im  a Russian American German Music Producer & Visual Artist And Native English Speaker Based in Iran
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/76a3dcf968de46ca34efc044df32a589/75251c12474adb9e-03/s1280x1920/f1d0e750317e88922765a6d1d5f5edcaa3ec7492.gif." width="500" height="270" />
+<img align="right" src="https://64.media.tumblr.com/1a0501b3c171db2fb2e1b3bc576a12ba/tumblr_oqps0mlUHv1qm3r26o1_1280.gif" width="707" height="1000" />
 
 **My Personal Information:**
 
